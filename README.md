@@ -1,5 +1,6 @@
 # desn-fmly-theme
-VS Code Theme inspired by the DESN FMLY
+VS Code theme inspired by the DESN FMLY.
 
 ## Sources
-* [Theme Studio]
+* [Theme Studio](https://themes.vscode.one)
+* [Amaranth Red & Eerie Black](https://themes.vscode.one/theme/vhalvarez/NqrS0Niv)
