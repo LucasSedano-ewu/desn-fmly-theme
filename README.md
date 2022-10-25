@@ -1,3 +1,5 @@
+![Screenshot of DESN FMLY Theme]
+
 # desn-fmly-theme
 VS Code theme inspired by the DESN FMLY.
 
